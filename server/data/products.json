@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "name": "T-Shirt",
+    "price": 25,
+    "category": "T-Shirts",
+    "image": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?auto=format&fit=crop&w=600&q=80"
+  },
+  {
+    "id": 2,
+    "name": "Jeans",
+    "price": 45,
+    "category": "Jeans",
+    "image": "https://images.unsplash.com/photo-1542272604-787c3835535d?auto=format&fit=crop&w=600&q=80"
+  },
+  {
+    "id": 3,
+    "name": "Casual Shirt",
+    "price": 35,
+    "category": "Shirts",
+    "image": "https://images.unsplash.com/photo-1602810318383-e386cc2a3ccf?auto=format&fit=crop&w=600&q=80"
+  },
+  {
+    "id": 4,
+    "name": "Hoodie",
+    "price": 55,
+    "category": "Hoodies",
+    "image": "https://images.unsplash.com/photo-1556821840-3a63f95609a7?auto=format&fit=crop&w=600&q=80"
+  },
+  {
+    "id": 5,
+    "name": "Shorts",
+    "price": 30,
+    "category": "Shorts",
+    "image": "https://images.unsplash.com/photo-1591195853828-11db59a44f6b?auto=format&fit=crop&w=600&q=80"
+  },
+  {
+    "id": 6,
+    "name": "Jacket",
+    "price": 70,
+    "category": "Jackets",
+    "image": "https://images.unsplash.com/photo-1551028719-00167b16eac5?auto=format&fit=crop&w=600&q=80"
+  }
+]
